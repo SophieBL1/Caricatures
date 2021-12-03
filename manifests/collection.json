@@ -1,0 +1,13 @@
+{
+  "id" : "https://SophieBL1.github.io/Caricatures/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in SophieBL1/Caricatures project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://SophieBL1.github.io/Caricatures/manifests/manifest3.json",
+    "label" : "Japanese and BNF"
+  } ]
+}
